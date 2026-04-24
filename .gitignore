@@ -1,0 +1,20 @@
+# Build artifacts
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+code
+
+# Generated build artifacts inside generated/
+generated/CMakeFiles/
+generated/Makefile
+generated/cmake_install.cmake
+generated/libPyAntlr.a
+
+# Other common ignores
+build/
+*.o
+*.obj
+*.log
+.idea/
+.vscode/
